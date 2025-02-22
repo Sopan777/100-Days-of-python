@@ -10,3 +10,4 @@
 ## Scheme of Work
 - Day 001 - Working with Variables in Python to Manage Data
 - Day 002 - Understanding Data Types and How to Manipulate Strings
+- Day 003 - Control Flow and Logical Operators
