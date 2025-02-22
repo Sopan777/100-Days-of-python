@@ -8,4 +8,5 @@
 - **Professional** - Days 082 - 100
 
 ## Scheme of Work
-- Day 001 - Printing, Commenting, Debugging, String Manupulation and Variables 
+- Day 001 - Working with Variables in Python to Manage Data
+- Day 002 - Understanding Data Types and How to Manipulate Strings
