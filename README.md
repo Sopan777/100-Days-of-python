@@ -15,4 +15,4 @@
 - Day 005 - Python Loops
 - Day 006 - Python Functions & Karel
 - Day 007 - Hangman
-- Day 008 - 
+- Day 008 - Function Parameters & Caesar Cipher
