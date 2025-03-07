@@ -13,3 +13,6 @@
 - Day 003 - Control Flow and Logical Operators
 - Day 004 - Randomisation and Python Lists
 - Day 005 - Python Loops
+- Day 006 - Python Functions & Karel
+- Day 007 - Hangman
+- Day 008 - 
