@@ -16,3 +16,4 @@
 - Day 006 - Python Functions & Karel
 - Day 007 - Hangman
 - Day 008 - Function Parameters & Caesar Cipher
+- Day 009 - Dictionaries, Nesting and the Secret Auction
